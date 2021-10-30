@@ -1,0 +1,18 @@
+.text {
+  color: white;
+  text-align: center;
+}
+
+#tryButton {
+  background-color: rgb(250, 250, 250);
+}
+#tryButtonBox {
+  font-size: 20px;
+  border: none;
+  font-family: inherit;
+}
+
+#hint {
+  top: 2rem;
+  right: 2rem;
+}
